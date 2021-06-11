@@ -172,3 +172,47 @@ footer {
   display: flex;
   justify-content: center;
 }
+
+@media only screen and (max-width: 660px) {
+  #container {
+    padding: 20px;
+  }
+
+  .heading-menu {
+    display: none;
+  }
+
+  .interior-content {
+    display: block;
+  }
+
+  .interior-description {
+    padding: 0;
+  }
+
+  .interior-title {
+    font-size: 2.75rem;
+    margin-bottom: 30px;
+  }
+
+  .interior-description p {
+    font-size: 1.25rem;
+    margin-bottom: 30px;
+  }
+
+  .interior-details {
+    margin-top: 30px;
+  }
+
+  .interior-author {
+    bottom: 70px;
+    left: 15%;
+    max-width: 82%;
+  }
+
+  .author-photo {
+    border-radius: 100px;
+    height: 24vh;
+    padding: 16px;
+  }
+}

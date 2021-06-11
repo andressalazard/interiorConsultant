@@ -36,9 +36,10 @@
 
 ## Overview
 
-![screenshot](https://drive.google.com/file/d/1ZoNw6dbBCTYFdH7Fa3fzbejd-_KWi3Nm/view?usp=sharing)
-![screenshot](https://drive.google.com/file/d/1q04KYPwd9aSrxKoyusDKW2DfSHIzvZPh/view?usp=sharing)
-![screenshot](https://drive.google.com/file/d/1HJLXB9rrYRVs5eipDblmYE_OSMh9-nJO/view?usp=sharing)
+![screenshot](../images/results/preview-1.png)
+
+<!-- ![screenshot](https://drive.google.com/file/d/1q04KYPwd9aSrxKoyusDKW2DfSHIzvZPh/view?usp=sharing)
+![screenshot](https://drive.google.com/file/d/1HJLXB9rrYRVs5eipDblmYE_OSMh9-nJO/view?usp=sharing) -->
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 

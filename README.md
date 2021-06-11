@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Interior Consultant Web Design</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://interior-consultant-navy.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/andressalazard/interiorConsultant">
       Solution
     </a>
     <span> | </span>
@@ -36,10 +36,9 @@
 
 ## Overview
 
-![screenshot](../images/results/preview-1.png)
-
-<!-- ![screenshot](https://drive.google.com/file/d/1q04KYPwd9aSrxKoyusDKW2DfSHIzvZPh/view?usp=sharing)
-![screenshot](https://drive.google.com/file/d/1HJLXB9rrYRVs5eipDblmYE_OSMh9-nJO/view?usp=sharing) -->
+![screenshot](https://user-images.githubusercontent.com/85258549/121730741-b638d000-cab5-11eb-9516-43aa339f834a.png)
+![screenshot](https://user-images.githubusercontent.com/85258549/121730844-d10b4480-cab5-11eb-9dbf-16e82ae9c227.png)
+![screenshot](https://user-images.githubusercontent.com/85258549/121731138-26dfec80-cab6-11eb-9817-1928151ff27e.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
